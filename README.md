@@ -36,7 +36,7 @@ Active customers cluster at higher tenure and spread across price points. Churne
 
 ## Dataset
 
-[IBM Telco Customer Churn Dataset](https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv) (7,043 customers, public domain)
+[IBM Telco Customer Churn Dataset](https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv) (7,043 customers, via Kaggle public domain)
 
 ## Tech Stack
 
